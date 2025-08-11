@@ -1,2 +1,7 @@
-# VideoJuegos2
-Repositorio para el desarollo de 3 proyectos asignados de la Asgingatura de Programaciobn de Videojuegos
+# Video Games 2
+
+Collaborative repository for the development of three projects assigned in the **Video Game Programming 2** course:
+
+- **FPS** (First Person Shooter)
+- **Virtual Reality**
+- **Augmented Reality**
